@@ -15,7 +15,7 @@
    :with :mushrooms
   })
 
-(defn get1 [] 1)
+(defn get1 [] 2)
 (defn get2 [] 2)
 
 (def app
